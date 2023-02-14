@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a full-stack software engineer who is looking for work.
 - 💪 Here's [my pixel-perfect Amazon clone](https://mattkleinsmith.dev/) and [my browser-based video game](https://mattblock.io/).
-- 🤩 I'm excited about React Native, GraphQL, Relay, and Rust.
+- 🎆 I'm excited about React Native, GraphQL, Relay, and Rust.
 
 Here's the stack for [the pixel-perfect Amazon clone](https://mattkleinsmith.dev/):
 
