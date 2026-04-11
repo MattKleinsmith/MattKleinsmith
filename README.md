@@ -1,1 +1,1 @@
-Faster QA, fewer bugs: [qawolf.com](https://www.qawolf.com/)
+Fast, fearless releases: [qawolf.com](https://www.qawolf.com/)
