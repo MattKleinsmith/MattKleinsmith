@@ -1,6 +1,6 @@
 Interests:
 
-[Datastar](https://data-star.dev/) instead of React, [Clojure](https://clojure.org/) instead of Node.js, and [Datomic](https://www.datomic.com/) instead of Postgres.
+[Datastar](https://data-star.dev/) instead of React, [Clojure](https://clojure.org/) instead of TypeScript, and [Datomic](https://www.datomic.com/) instead of Postgres.
 
 Work:
 
