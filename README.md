@@ -1,6 +1,8 @@
 Interests:
 
-[Datastar](https://data-star.dev/) instead of React, [Clojure](https://clojure.org/) instead of TypeScript, and [Datomic](https://www.datomic.com/) instead of Postgres.
+New: Processors, operating systems, and assembly.
+
+Old: [Datastar](https://data-star.dev/) instead of React, [Clojure](https://clojure.org/) instead of TypeScript, and [Datomic](https://www.datomic.com/) instead of Postgres.
 
 Work:
 
