@@ -1,3 +1,3 @@
 Work:
 
-Fast, fearless releases: [qawolf.com](https://www.qawolf.com/)
+The AI Test Factory: [qawolf.com](https://www.qawolf.com/)
